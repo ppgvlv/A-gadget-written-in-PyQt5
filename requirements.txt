@@ -1,0 +1,5 @@
+pymysql==0.10.0
+PyQt5==5.15.9
+PyQtWebEngine==5.15.6
+pyecharts==2.0.2
+cryptography==39.0.2
